@@ -2,3 +2,6 @@ https://bobbyhadz.com/blog/python-typeerror-class-takes-no-arguments#:~:text=The
 
 
 https://docs.python.org/3/tutorial/classes.html
+
+
+https://www.youtube.com/watch?v=9C_i8jERrL4
