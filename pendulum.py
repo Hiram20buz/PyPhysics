@@ -4,6 +4,7 @@ import pygame
 black = (0, 0, 0)
 white = (255, 255, 255)
 
+
 class Pendulum:
     def __init__(self, pivot_x=0, pivot_y=0, m=1, l=200, a=math.pi/2, g=1, color='red'):
         self.pivot = (pivot_x, pivot_y)
