@@ -5,3 +5,8 @@ https://docs.python.org/3/tutorial/classes.html
 
 
 https://www.youtube.com/watch?v=9C_i8jERrL4
+
+chess
+
+
+https://www.youtube.com/watch?v=tICDiXe8_Vc
