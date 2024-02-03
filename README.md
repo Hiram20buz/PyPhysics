@@ -22,3 +22,6 @@ https://www.youtube.com/watch?v=HTfwhmHVpqM
 
 ### Physics Simulations With Python and PyMunk
 https://www.youtube.com/watch?v=tLsi2DeUsak
+
+
+https://github.com/MohakBajaj/ProjectileMotionStimulation-Python/blob/main/main.py
