@@ -1,7 +1,6 @@
 import pygame
 from math import *
 
-
 WINDOW_SIZE =  800
 ROTATE_SPEED = 0.02
 window = pygame.display.set_mode( (WINDOW_SIZE, WINDOW_SIZE) )
